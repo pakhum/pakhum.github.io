@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1705506675,
+	"version": 1705984020,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -120,6 +120,12 @@
 		"images/ถูกผิด-sheet1.png",
 		"images/ถูกผิด-sheet2.png",
 		"images/จบ-sheet0.png",
+		"images/ป้ายจับผิด-sheet0.png",
+		"images/ถูกผิดจับผิด-sheet0.png",
+		"images/ถูกผิดจับผิด-sheet1.png",
+		"images/รูป-sheet0.png",
+		"images/ดาว-sheet0.png",
+		"images/ดาว-sheet1.png",
 		"media/redcross365 - สำเนา.m4a",
 		"media/redcross365 - สำเนา.ogg",
 		"media/เสียงโดด.m4a",
