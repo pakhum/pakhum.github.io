@@ -1,0 +1,117 @@
+.bg1 {
+  background:url("รูปภาพ1.jpg") no-repeat fixed center bottom #FFF;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover
+ }
+ a {
+  text-decoration:none;
+  outline:0
+    }
+  }
+ .news-section {
+  position:relative;
+  margin:0 auto;
+  padding:0px;
+  width:94%
+  }
+  .content-section.verify-section .verify-contain .txt-h {
+  position:relative;
+  margin:0 auto;
+  padding:15px;
+  font-size:2.3rem;
+  font-weight:bold;
+  color:#0046b3
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper {
+  position:relative;
+  margin:0 auto;
+  padding:10px;
+  list-style:none;
+  text-align:center
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item {
+  position:relative;
+  margin:10px auto;
+  padding:50px 15px;
+  text-align:center;
+  -webkit-transition:all 0.6s ease 0s;
+  -moz-transition:all 0.6s ease 0s;
+  -o-transition:all 0.6s ease 0s;
+  transition:all 0.6s ease 0s;
+  max-width:350px;
+  background-image:-webkit-linear-gradient(top, #d900d9,#ff4cff,#b30086);
+  background-image:-moz-linear-gradient(top, #d900d9,#ff4cff,#b30086);
+  background-image:-o-linear-gradient(top, #d900d9,#ff4cff,#b30086);
+  background-image:-ms-linear-gradient(top, #d900d9,#ff4cff,#b30086);
+  background-image:linear-gradient(to bottom, #d900d9,#ff4cff,#b30086);
+  -webkit-border-radius:63% 37% 19% 81%/67% 74% 26% 33%;
+  -khtml-border-radius:63% 37% 19% 81%/67% 74% 26% 33%;
+  -moz-border-radius:63% 37% 19% 81%/67% 74% 26% 33%;
+  -ms-border-radius:63% 37% 19% 81%/67% 74% 26% 33%;
+  -o-border-radius:63% 37% 19% 81%/67% 74% 26% 33%;
+  border-radius:63% 37% 19% 81%/67% 74% 26% 33%
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item a {
+  color:#FFF
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item:hover a {
+  color:#ffff00
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item .txt-nm {
+  font-size:1.2rem
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item .txt-nm i {
+  font-size:2.2rem
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item.item-1 {
+  background-image:-webkit-linear-gradient(right, #86b300,#468c00,#86b300);
+  background-image:-moz-linear-gradient(right, #86b300,#468c00,#86b300);
+  background-image:-o-linear-gradient(right, #86b300,#468c00,#86b300);
+  background-image:-ms-linear-gradient(right, #86b300,#468c00,#86b300);
+  background-image:linear-gradient(to left, #86b300,#468c00,#86b300);
+  -webkit-border-radius:77% 23% 73% 27%/67% 79% 21% 33%;
+  -khtml-border-radius:77% 23% 73% 27%/67% 79% 21% 33%;
+  -moz-border-radius:77% 23% 73% 27%/67% 79% 21% 33%;
+  -ms-border-radius:77% 23% 73% 27%/67% 79% 21% 33%;
+  -o-border-radius:77% 23% 73% 27%/67% 79% 21% 33%;
+  border-radius:77% 23% 73% 27%/67% 79% 21% 33%
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item.item-2 {
+  background-image:-webkit-linear-gradient(top, #0059b3,#0073e6,cyan);
+  background-image:-moz-linear-gradient(top, #0059b3,#0073e6,cyan);
+  background-image:-o-linear-gradient(top, #0059b3,#0073e6,cyan);
+  background-image:-ms-linear-gradient(top, #0059b3,#0073e6,cyan);
+  background-image:linear-gradient(to bottom, #0059b3,#0073e6,cyan);
+  -webkit-border-radius:31% 69% 49% 51%/67% 79% 21% 33%;
+  -khtml-border-radius:31% 69% 49% 51%/67% 79% 21% 33%;
+  -moz-border-radius:31% 69% 49% 51%/67% 79% 21% 33%;
+  -ms-border-radius:31% 69% 49% 51%/67% 79% 21% 33%;
+  -o-border-radius:31% 69% 49% 51%/67% 79% 21% 33%;
+  border-radius:31% 69% 49% 51%/67% 79% 21% 33%
+ }
+ .content-section.verify-section .verify-contain ul.verify-wrapper>li.item.item-3 {
+  background-image:-webkit-linear-gradient(top, #8c2300,#d53500,#ff4b0f);
+  background-image:-moz-linear-gradient(top, #8c2300,#d53500,#ff4b0f);
+  background-image:-o-linear-gradient(top, #8c2300,#d53500,#ff4b0f);
+  background-image:-ms-linear-gradient(top, #8c2300,#d53500,#ff4b0f);
+  background-image:linear-gradient(to bottom, #8c2300,#d53500,#ff4b0f);
+  -webkit-border-radius:45% 55% 24% 76%/67% 0% 100% 33%;
+  -khtml-border-radius:45% 55% 24% 76%/67% 0% 100% 33%;
+  -moz-border-radius:45% 55% 24% 76%/67% 0% 100% 33%;
+  -ms-border-radius:45% 55% 24% 76%/67% 0% 100% 33%;
+  -o-border-radius:45% 55% 24% 76%/67% 0% 100% 33%;
+  border-radius:45% 55% 24% 76%/67% 0% 100% 33%
+ }
+ @media only screen and (min-width: 1000px) {
+  .content-section.verify-section .verify-contain ul.verify-wrapper {
+   max-width:650px
+  }
+  .content-section.verify-section .verify-contain ul.verify-wrapper>li.item {
+   margin:10px;
+   display:-moz-inline-stack;
+   display:inline-block;
+   width:250px
+  
+ 
