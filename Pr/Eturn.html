@@ -1,0 +1,72 @@
+<html>
+<head>
+    <meta charset="UTF-8" /> 
+    <title>ส่งคืนเอกสาร</title> 
+    <link rel="shortcut icon" type="image/x-icon" href="img/icon.png" />
+    <link rel="stylesheet" href="css/01.css">
+    <link rel="stylesheet" href="css/popup.css">
+</head>
+<body topmargin="0" leftmargin ="0" >
+  <ul>
+    <li><a href="Home.html">หน้าแรก</a></li>
+    <li class="dropdown">
+        <a href="javascript:void(0)" class="dropbtn">นิติบุคคลอาคารชุด</a>
+        <div class="dropdown-content">
+          <a>ค้นหาข้อมูล</a>
+          
+          <button id="myBtn">
+          <a >ค้นหา อช.12/1 (รายการจดทะบียนแต่งตั้ง/เปลี่ยนแปลงกรรมการนิติบุคคลอาคารชุด และเปลี่ยนแปลงผู้จัดการนิติบุคคลอาคารชุด)</a>
+        </button>
+        <div id="myModal" class="modal">
+
+          <!-- Modal content -->
+           <div class="modal-content">
+            <span class="close">&times;</span>
+            <p><iframe width="100%" height="90%" src="https://datastudio.google.com/embed/reporting/1b4946a5-f884-4dba-ae6f-fc05774f6b13/page/7oUvC" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </p>
+           </div>
+
+
+           <li><a href="Search_ AllocateLand.html">ค้นหาหมู่บ้านจัดสรร</a></li>
+          
+            <li><a href="Search_Trade.html">โครงการค้าที่ดิน</a></li>
+        <li><a href="durable_articles.html">ค้นหานิติบุคคลต่างสำนักงาน</a></li>
+        <li><a>ส่งคืนเอกสาร</a></li>
+        <li class="dropdown">
+          <a href="javascript:void(0)" class="dropbtn">โปรแกรมอื่นๆ</a>
+          <div class="dropdown-content">
+            <a href="Postal_Code.html">ค้นหารหัสไปรณี</a>
+            <a href="Postal_Code.html">ระบบรายงาน</a>
+            <div id="myModal" class="modal">
+            </li>
+  
+</body>
+</html>
+<script>
+  // Get the modal
+  var modal = document.getElementById("myModal");
+  
+  // Get the button that opens the modal
+  var btn = document.getElementById("myBtn");
+  
+  // Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+  
+  // When the user clicks the button, open the modal
+  btn.onclick = function() {
+  modal.style.display = "block";
+  }
+  
+  // When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+  modal.style.display = "none";
+  }
+  
+  // When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+  if (event.target == modal) {
+  modal.style.display = "none";
+  }
+  }
+  </script>
+  
